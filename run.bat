@@ -1,2 +1,2 @@
 rem .venv\Scripts\activate
-python ./src/app.py
+python ./src/main.py
