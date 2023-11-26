@@ -36,7 +36,7 @@
 	- run.bat
 ```
 5) 서비스 접속
-	- EDA 서비스 [접속 (http://localhost:8081/)](http://localhost:8081/)
+	- EDA 서비스 [접속 (http://localhost:8801/)](http://localhost:8801/)
 
 
 
