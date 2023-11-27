@@ -23,6 +23,8 @@
 	- pip install pyinstaller
 4) 라이브러리 설치
 	- pip install -r ./init_setting/library_requirements.txt
+	- 위 명령어 오류 발생 시, 아래 명령으로 수행
+	  pip install shiny pandas matplotlib seaborn pycanon chardet Jinja2	
 ```
 
 
